@@ -1,7 +1,7 @@
 LICENSE
 =======
 
-Component Installer is released under the MIT License:
+Sample Package is released under the MIT License:
 
 > Copyright (C) 2015 Ray Gunderman
 >
